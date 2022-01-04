@@ -8,5 +8,5 @@ Create a budget tracker application to allow for offline access and functionalit
 
 ## Deployed Application
 ![Depolyed Don't Budge App](https://drive.google.com/file/d/1_OrYEKB5Iqti9gdGfg1JCqBw-O2xJYeM/view?usp=sharing)
-[Don't Budge Budget Tracker](https://sumwillrodt.github.io/dont-budge/)
-[Heroku]()
+[Github Repository](https://github.com/sumwillrodt/dont-budge)
+[Heroku](https://salty-waters-73908.herokuapp.com/)
